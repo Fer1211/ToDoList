@@ -1,0 +1,5 @@
+Pagar luz [alta] - Completada
+Dormir [alta] - Pendiente
+Estudiar Python [media] - Pendiente
+Hacer tareas [media] - Pendiente
+Comer [media] - Pendiente

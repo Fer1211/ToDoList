@@ -1,0 +1,32 @@
+[
+    {
+        "descripcion": "Pagar luz",
+        "completada": true,
+        "prioridad": "alta",
+        "fecha_creacion": "2025-09-25 23:38:11"
+    },
+    {
+        "descripcion": "Estudiar Python",
+        "completada": false,
+        "prioridad": "media",
+        "fecha_creacion": "2025-09-25 23:38:11"
+    },
+    {
+        "descripcion": "Hacer tareas",
+        "completada": false,
+        "prioridad": "media",
+        "fecha_creacion": "2025-09-25 23:38:11"
+    },
+    {
+        "descripcion": "Dormir",
+        "completada": false,
+        "prioridad": "alta",
+        "fecha_creacion": "2025-09-26 00:16:25"
+    },
+    {
+        "descripcion": "Comer",
+        "completada": false,
+        "prioridad": "media",
+        "fecha_creacion": "2025-09-26 00:16:49"
+    }
+]
