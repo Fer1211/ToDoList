@@ -70,3 +70,27 @@ JSON y CSV para persistencia y exportación de datos
 ¡Se aceptan sugerencias y mejoras!
 Si tienes ideas, errores que reportar o quieres mejorar alguna funcionalidad, puedes abrir un Issue o hacer un Pull Request en este repositorio.
 Tu aporte será bienvenido y ayudará a mejorar ToDoList PRO.
+
+## 📸 Vista
+
+### Main / Menu
+![Main Menu](images/menu.png)
+
+### Task List / Lista de Tareas
+![Lista de Tareas](images/ListaDeTareas.png)
+
+### Search Tasks / Buscar Tareas
+![Buscar Tareas](images/Buscar.png)
+
+### Statistics / Estadísticas
+![Estadisticas](images/Estadisticas.png)
+
+### Export Table / Exportar Tabla
+![Exportar Tabla](images/Exportar.png)
+
+### Undo / Redo
+![UnduRedo](images/UnduRedo.png)
+
+### Action Log / Acciones log
+![Acciones log](images/Acciones.png)
+
