@@ -81,5 +81,28 @@ Interactive terminal interface with colors and tables
 🤝 Contributions & Suggestions
 Contributions are welcome! If you have ideas, bug reports, or want to improve any feature, feel free to open an Issue or submit a Pull Request. Your input will help make ToDoList PRO even better.
 
+## 📸 Preview
+
+### Main / Menu
+![Main Menu](images/menu.png)
+
+### Task List / Lista de Tareas
+![Lista de Tareas](images/ListaDeTareas.png)
+
+### Search Tasks / Buscar Tareas
+![Buscar Tareas](images/Buscar.png)
+
+### Statistics / Estadísticas
+![Estadisticas](images/Estadisticas.png)
+
+### Export Table / Exportar Tabla
+![Exportar Tabla](images/Exportar.png)
+
+### Undo / Redo
+![UnduRedo](images/UnduRedo.png)
+
+### Action Log / Acciones log
+![Acciones log](images/Acciones.png)
+
     
 
